@@ -1,0 +1,10 @@
+Preditor,Descrição,Tipo,Subtipo
+sexo, sexo do molusco, qualitativo, nominal
+comprimento, tamanho máximo da concha (mm), quantitativo, contínuo
+diâmetro, medida perpendicular ao comprimento (mm), qualitativo, contínuo
+altura, altura total do molusco com casca (mm), qualitativo, contínuo
+peso total, peso total do molusco (g), quantitativo, contínuo
+peso sem casca, peso do molusco sem casca (g), quantitativo, contínuo
+peso do intestino, peso do intestino após sangrar (g), quantitativo, contínuo
+peso da concha, peso da concha seca (g), quantitativo, contínuo
+anéis," quantidade de anéis, +1.5 é a idade do abalone", quantitativo, discreto
