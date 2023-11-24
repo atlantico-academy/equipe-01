@@ -4,19 +4,19 @@
 
 ## Contextualização
 
-Contexto necessário para entender o problema a ser abordado.
+O intuito desta amostra de dados, refere-se a analise de um tipo de molusculo chamado Abalone, e caracteristicas fisicas que possam atribuir sua idade
 
 ## Problema
 
-O real problema que será abordado no projeto.
+A forma da obtenção da idade deste moluscos é um processo demorado, por isso a tentativa de prever esta idade por caracteristicas fisicas
 
 ## Proposta
 
-Informações sobre o que será criado como solução tecnológica ao final do projeto.
+Predizer as idades desses moluscos através dos dados obtidos das características físicas, utilizando técnicas de Machine Learning
 
 ## Equipe
 
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
+ - [Anne Carvalho](https://github.com/annecarv)
+ - [Augusto Oliveira](https://github.com/augustces)
+ - [Catherine Bezerra Markert](https://github.com/cathmarkert)
+ - [Hernando Henrique de Assis Silva](https://github.com/hernandohas)
