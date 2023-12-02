@@ -1,8 +1,17 @@
-# <Predição de idade de Abalones>
+# Abalones - Análise e Predições por meio das Características Físicas
+
+Propõe a análise de dados do molusco Abalone por meio de técnicas estatísticas e de Machine Learning utilizando a metodologia CRISP-DM. O Abalone é um organismo marinho de importância econômica, sendo crucial compreender padrões e características que influenciam seu desenvolvimento. Neste dataset é abordado desde a coleta inicial de dados até a implementação de modelos preditivos, explorando insights para o entendimento das características físicas desse molusco.
+
+A análise de dados do Abalone é relevante tanto do ponto de vista ambiental quanto econômico. Compreender fatores que afetam seu crescimento e comportamento pode fornecer informações para a preservação dessa espécie. A aplicação prática de técnicas de ciência de dados a um contexto biológico específico enriquecerá as habilidades e conhecimento dos participantes, expandido horizontes para um amplo aprendizado.
 
 Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
+## Resumo Gráfico
+
+    
+
 ## Desenvolvedores
+
  - [Anne Carvalho](github.com/annecarv)
  - [Augusto César](github.com/augustces)
  - [Catherine Markert](github.com/cathmarkert)
@@ -10,8 +19,6 @@ Insira aqui um resumo do projeto que será construído. Tente apresentar uma jus
  - [João](url-do-github-do-desenvolvedor-#5)
 
 ---
-
-
 
 ### Organização de diretórios
 
