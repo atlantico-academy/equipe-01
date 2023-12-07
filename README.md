@@ -1,10 +1,11 @@
 # Abalones - Análise e Predições por meio das Características Físicas
 
-Propõe a análise de dados do molusco Abalone por meio de técnicas estatísticas e de Machine Learning utilizando a metodologia CRISP-DM. O Abalone é um organismo marinho de importância econômica, sendo crucial compreender padrões e características que influenciam seu desenvolvimento. Neste dataset é abordado desde a coleta inicial de dados até a implementação de modelos preditivos, explorando insights para o entendimento das características físicas desse molusco.
+O seguinte projeto tem por obejtivo propor uma análise dos dados do molusco Abalone por meio de técnicas estatísticas e de Machine Learning através da metodologia CRISP-DM. O Abalone é um organismo marinho de suma importância econômica, sendo crucial compreender padrões e características que influenciam seu desenvolvimento. Neste projeto abordaremos desde a importação inicial dos dados até a implementação de modelos preditivos, explorando insights para o entendimento das características físicas desse molusco.
 
-A análise de dados do Abalone é relevante tanto do ponto de vista ambiental quanto econômico. Compreender fatores que afetam seu crescimento e comportamento pode fornecer informações para a preservação dessa espécie. A aplicação prática de técnicas de ciência de dados a um contexto biológico específico enriquecerá as habilidades e conhecimento dos participantes, expandido horizontes para um amplo aprendizado.
+A análise de dados do Abalone transcende o escopo meramente econômico, abraçando também uma relevância ambiental substancial. A compreensão dos fatores que afetam seu crescimento e comportamento não apenas oferece informações valiosas para o setor econômico, mas também se mostra crucial para a preservação e sustentabilidade dessa espécie marinha.
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+A aplicação das técnicas de ciência de dados a um contexto biológico específico, como o estudo do Abalone, promete enriquecer significativamente as habilidades e conhecimentos dos participantes envolvidos nesse processo analítico. Isso não só amplia horizontes para um aprendizado mais amplo, mas também destaca a versatilidade e a aplicabilidade das ferramentas de análise de dados em áreas tão diversas quanto a biologia marinha e a conservação ambiental. Essa abordagem interdisciplinar não apenas aprimora a compreensão dos dados do Abalone, mas também revela a capacidade da ciência de dados em contribuir para questões de importância global, transcendendo fronteiras disciplinares.
+
 
 ## Resumo Gráfico
 
@@ -16,7 +17,7 @@ Insira aqui um resumo do projeto que será construído. Tente apresentar uma jus
  - [Augusto César](github.com/augustces)
  - [Catherine Markert](github.com/cathmarkert)
  - [Hernando Henrique](github.com/hernandohas)
- - [João](url-do-github-do-desenvolvedor-#5)
+ - [João Barboza](https://github.com/joaovcbarboza)
 
 ---
 
