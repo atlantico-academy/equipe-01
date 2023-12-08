@@ -9,7 +9,7 @@ A aplicação das técnicas de ciência de dados a um contexto biológico espec�
 
 ## Resumo Gráfico
 
-![resumografico](/image.png)
+![resumografico](image.png)
 
 ## Desenvolvedores
 
