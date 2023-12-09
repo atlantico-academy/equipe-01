@@ -32,6 +32,7 @@ A aplicação das técnicas de ciência de dados a um contexto biológico espec�
 │   ├── processed/     # Arquivos de dados processados
 │   └── raw/           # Arquivos de dados originais, imutáveis
 ├── docs/              # Documentação gerada através da biblioteca mkdocs
+    ├── slides/        # Arquivos referentes a apresentação em ptt
 ├── models/            # Modelos treinados e serializados, predições ou resumos de modelos
 ├── notebooks/         # Diretório contendo todos os notebooks utilizados nos passos
 ├── references/        # Dicionários de dados, manuais e todo o material exploratório
